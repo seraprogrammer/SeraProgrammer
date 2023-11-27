@@ -1,36 +1,17 @@
-<H1>Hello, I am Nazmul Hossain</H1>
-<img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
-  alt="Alternative Text"
-/>
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+<h1 align="center">Hi 👋, I'm Nazmul Hossain</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-on:
-  schedule:
-    # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: "1 0 * * *"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=javascriptostad&label=Profile%20views&color=0e75b6&style=flat" alt="javascriptostad" /> </p>
 
-jobs:
-  update-readme:
-    name: Update the WakaTime Stat
-    runs-on: ubuntu-latest
-    steps:
-      # Use avinal/Profile-Readme-WakaTime@<latest-release-tag> for latest stable release
-      # Do not change the line below until you have forked this repository
-      # If you have forked this project you can use <username>/Profile-Readme-WakaTime@master instead
-      - uses: avinal/Profile-Readme-WakaTime@master
-        with:
-          # WakaTime API key stored in secrets, do not directly paste it here
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Automatic github token
-          GITHUB_TOKEN: ${{ github.token }}
-          # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
-          BRANCH: "master"
-          # Manual Commit messages - write your own messages here
-          COMMIT_MSG: "Automated Coding Activity Update :alien:"
-          # Range of fetching data - default is "last_7_days". See https://wakatime.com/developers#stats for more options
-          STATS_RANGE: "last_7_days"
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/xynazmul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xynazmul" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javascriptostad&show_icons=true&locale=en&layout=compact" alt="javascriptostad" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javascriptostad&show_icons=true&locale=en" alt="javascriptostad" /></p>
+
