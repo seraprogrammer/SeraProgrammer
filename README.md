@@ -1,5 +1,13 @@
 <H1>Hello, I am Nazmul Hossain</H1>
-<img![butterfly](https://github.com/JavaScriptOstad/JavaScriptOstad/assets/73139993/a7205634-4f34-4486-b18e-582558dc46ec)
+<img
+  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 
 on:
   schedule:
