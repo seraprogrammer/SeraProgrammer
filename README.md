@@ -1,3 +1,4 @@
+![Add a heading](https://github.com/seraprogrammer/SeraProgrammer/assets/73139993/d920a936-70be-45bd-b273-3436d80f3c71)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm Sera Programmer</h1>
 <h3 align="center">Passionate frontend dev from Bangladesh, crafting seamless user experiences with JavaScript. Committed to clean code, eager to collaborate and grow. 🚀</h3>
