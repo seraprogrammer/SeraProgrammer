@@ -1,5 +1,5 @@
 ![Add a heading (1)](https://github.com/seraprogrammer/SeraProgrammer/assets/73139993/23271996-d30b-4531-9d2d-432d14058a46)
-$$\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://user-images.githubusercontent.com/30528167/92789817-e4b53d80-f3b3-11ea-96a4-dad3ea09d237.png?raw=true');]{x0000}$}$$
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm Sera Programmer</h1>
 <h3 align="center">Passionate frontend dev from Bangladesh, crafting seamless user experiences with JavaScript. Committed to clean code, eager to collaborate and grow. 🚀</h3>
