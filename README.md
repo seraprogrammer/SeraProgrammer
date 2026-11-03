@@ -18,13 +18,15 @@
 
 ## About Me
 
-I'm a passionate Full Stack Developer who believes in building solutions that make a difference. I thrive on turning complex problems into elegant, user-friendly applications.
+I'm a **Mid-Level Software Engineer** passionate about building useful products, developer tools, and open-source software. I work primarily within the **TypeScript ecosystem**, with a focus on performance, simplicity, and great developer experience.
 
-- 🌱 Currently mastering **Advanced JavaScript** and modern **Web Development** practices
-- 💡 Focused on building projects that solve **real-world problems**
-- 🤝 Open to collaborating on **open-source projects**
-- 🎯 Always learning, always growing
-- 💬 Ask me about **React, Node.js, or Web Development**
+- ⚡ **Web:** TypeScript, React, Next.js, TanStack, Vue, Nuxt, Svelte, and more.
+- 🖥️ **Desktop & Mobile:** Building cross-platform applications with Electron, Tauri, and React Native.
+- 🦀 **Beyond JavaScript:** Exploring systems programming and backend development with Rust, Go, and Python.
+- 🚀 **Open Source:** Creating developer tools, frameworks, and libraries that solve real-world problems.
+- 🎯 **2026 is my Rust year** — diving deeper into Rust and systems-level engineering.
+- 🤝 Always open to interesting ideas, collaborations, and open-source contributions.
+
 
 > _"If you do what you studied, you will survive. But if you do what you haven't studied, you will become a leader."_
 
