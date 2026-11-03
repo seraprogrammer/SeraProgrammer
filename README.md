@@ -1,13 +1,22 @@
 [![Nazmul Hossain's Profile](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWljdzlxMnlxN3E1ZGVvcmVjNGI4anZuMmloOGNpc3o4ZHhxZnY2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6RuhlzSdhIAqk/giphy.gif)](https://www.seraprogrammer.com/dev/nazmul)
 # Hi there, I'm Nazmul Hossain 👋
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Problem+Solver+%26+Innovator;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-</div>
 
-## 🚀 About Me
+##  What I'm Building
+
+- **[Shob](https://github.com/shobcoder/shob)** – AI agent for coding and automation.
+- **[Kathamo](https://github.com/olovalabs/kathamo)** – The home for your coding agents.
+- **[Deshi JS](https://github.com/olovalabs/deshijs)** – Compiler-based static site generation framework.
+- **[Ezicode](https://github.com/olovalabs/ezicode)** – Simple, fast, and modern code editor.
+- **[Fastcast](https://github.com/olovalabs/fastcast)** – Lightweight, cross-platform Spotlight launcher.
+- **[Olova UI](https://github.com/olovalabs/olovaui)** – Beautiful pre-built UI library for developers.
+- **[Sera UI](https://github.com/seraui/seraui)** – UI component library for React and Next.js.
+- **[Sera JS](https://github.com/sera-js/sera)** – Lightweight, signal-based reactive JavaScript library.
+- **[Speeed.js CLI](https://github.com/seraprogrammer/speeed)** – CLI to accelerate development workflows.
+
+
+## About Me
 
 I'm a passionate Full Stack Developer who believes in building solutions that make a difference. I thrive on turning complex problems into elegant, user-friendly applications.
 
