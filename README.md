@@ -2,8 +2,7 @@
 # Hi there, I'm Nazmul Hossain 👋
 
 
-
-##  What I'm Building
+## What I'm Building
 
 - **[Shob](https://github.com/shobcoder/shob)** – AI agent for coding and automation.
 - **[Kathamo](https://github.com/olovalabs/kathamo)** – The home for your coding agents.
@@ -14,6 +13,8 @@
 - **[Sera UI](https://github.com/seraui/seraui)** – UI component library for React and Next.js.
 - **[Sera JS](https://github.com/sera-js/sera)** – Lightweight, signal-based reactive JavaScript library.
 - **[Speeed.js CLI](https://github.com/seraprogrammer/speeed)** – CLI to accelerate development workflows.
+- **[PeerMeld](https://peermeld.com)** – Professional network for developers and builders to showcase real work, launch ideas, and connect with collaborators.
+- **[Portfolio](https://github.com/seraprogrammer/portfolio)** – Personal portfolio showcasing my projects, skills, and experience.
 
 
 ## About Me
